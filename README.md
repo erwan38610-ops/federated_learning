@@ -46,3 +46,7 @@ Deep Learning : TensorFlow / Keras, TensorFlow Federated
 
 
 Statistiques : Tests de corrélation, imputation KNN
+
+
+## Accès aux données et Confidentialité
+En raison de la nature sensible de la base de données clinique **MIMIC-III**, les données brutes ne sont pas présentes dans ce dépôt. Conformément au contrat d'utilisation des données (DUA) et aux réglementations sur la protection de la vie privée (RGPD), l'accès est réservé aux chercheurs ayant obtenu l'accréditation nécessaire via [PhysioNet](https://physionet.org/content/mimiciii/).
