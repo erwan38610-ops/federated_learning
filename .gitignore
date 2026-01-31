@@ -1,0 +1,12 @@
+# Données de santé
+**/MIMIC III/
+*.csv
+*.xlsx
+*.pptx
+*.docx
+notebooks/MIMIC\ III/
+
+# Système & Python
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
