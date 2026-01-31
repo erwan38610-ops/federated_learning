@@ -1,0 +1,8 @@
+tensorflow>=2.13.0
+tensorflow-federated
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
