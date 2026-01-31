@@ -1,12 +1,12 @@
-# Données de santé
-**/MIMIC III/
-*.csv
-*.xlsx
-*.pptx
-*.docx
+# Dossier de données confidentielles (MIMIC III)
 notebooks/MIMIC\ III/
 
-# Système & Python
+# Fichiers système Mac et Python
 .DS_Store
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
+
+# Historiques et temporaires
+.Rhistory
+.RData
