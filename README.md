@@ -1,4 +1,4 @@
-# federated_learning
+# Enjeux et défis de l'apprentissage automatique
 Protection de la vie privée dans les bases de données de santé : enjeux et défis de l'apprentissage automatique
 
 
